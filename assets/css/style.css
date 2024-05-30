@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #060428;
+  background: #040b14;
   overflow-y: auto;
 }
 
@@ -241,9 +241,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") no-repeat right center;
-  background-size: 90% auto; /* Squish rightwards */
-  position: relative;
+  background: url("../img/hero-bg.jpg") top center;
+  background-size: cover;
 }
 
 #hero:before {
@@ -315,7 +314,6 @@ section {
 .section-bg {
   background: #f5f8fd;
 }
-
 
 .section-title {
   padding-bottom: 30px;
@@ -629,10 +627,6 @@ section {
   opacity: 1;
   bottom: 0;
 }
-.img-fluid {
-  border-radius: 10px; /* Adjust the value as needed */
-}
-
 
 /*--------------------------------------------------------------
 # Portfolio Details
@@ -1080,9 +1074,6 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
 #footer {
   padding: 15px;
   color: #f4f6fd;
@@ -1092,7 +1083,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #09021b;
+  background: #040b14;
 }
 
 #footer .copyright {
