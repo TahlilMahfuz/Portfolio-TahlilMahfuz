@@ -10,7 +10,7 @@ You can view my portfolio by following this link: [Portfolio - Tahlil Mahfuz](ht
 
 If you have any questions or would like to get in touch, feel free to reach out to me:
 
-- Email: your@email.com
+- Email: Tahlilkfaiyaz@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tahlil-2b5617301/)
 
 Thank you for visiting my portfolio! 😊
