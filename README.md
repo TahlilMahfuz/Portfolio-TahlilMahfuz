@@ -1,6 +1,6 @@
 # Portfolio Readme
 
-Welcome to my portfolio! This repository contains various projects and works that showcase my skills and experiences. Feel free to explore and provide feedback.
+Welcome to my portfolio! 
 
 ## Portfolio Link
 
